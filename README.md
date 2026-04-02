@@ -1,6 +1,6 @@
 # TaskFlow — To-Do / Task Manager App
 
-A sleek, production-quality **To-Do & Task Manager** app built with pure **HTML, CSS & JavaScript** — no frameworks, no dependencies. Designed with a black/white/purple aesthetic to stand out in a recruiter's portfolio review.
+A sleek, production-quality **To-Do & Task Manager** app built with pure **HTML, CSS & JavaScript** — no frameworks, no dependencies.
 
 ---
 
