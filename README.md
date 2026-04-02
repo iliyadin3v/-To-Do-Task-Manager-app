@@ -86,7 +86,7 @@ python -m http.server 8000
 
 **Iliya Dinev**  
 UI/UX Designer & Cybersecurity Student  
-[GitHub](https://github.com/) · [LinkedIn](https://linkedin.com/)
+[GitHub](https://github.com/iliyadin3v/) · [LinkedIn](https://www.linkedin.com/in/iliya-dinev-5b0940194//)
 
 ---
 
